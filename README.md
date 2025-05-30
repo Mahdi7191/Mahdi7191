@@ -45,4 +45,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi7191&layout=compact&theme=radical)
 
 
+![Hacker Welcome](https://media.giphy.com/media/3o7aD4p6j1zZuX9Y8Y/giphy.gif)
+
+
 > 🧩 Constantly updating this page reflects my commitment to professional growth and continuous learning.
