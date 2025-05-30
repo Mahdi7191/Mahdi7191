@@ -48,4 +48,6 @@
 ![Hacker Welcome](https://media.giphy.com/media/3o7aD4p6j1zZuX9Y8Y/giphy.gif)
 
 
+![My Banner](https://raw.githubusercontent.com/username/repository/branch/path-to-image.png)
+
 > 🧩 Constantly updating this page reflects my commitment to professional growth and continuous learning.
