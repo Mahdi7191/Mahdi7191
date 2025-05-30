@@ -38,4 +38,11 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Mahdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahdi7191&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahdi7191&layout=compact&theme=radical)
+
+
 > 🧩 Constantly updating this page reflects my commitment to professional growth and continuous learning.
