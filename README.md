@@ -17,6 +17,14 @@
 
 ---
 
+## 💹 Financial Markets
+
+Trader and analyst in Forex, Crypto, and Wall Street markets.  
+Passionate about technical and fundamental analysis.  
+Developer of automated trading strategies.
+
+---
+
 ## 🛠️ Tools & Programming Languages
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
@@ -37,6 +45,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-mahdi7191n-purple?style=flat&logo=instagram)](https://instagram.com/mahdi7191n)
 
 ---
+
+> 🧩 Constantly updating this page reflects my commitment to professional growth and continuous learning.
 
 ## 📊 GitHub Stats
 
